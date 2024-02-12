@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/juliewu/Downloads/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre11.jar",
+        "mssql-jdbc-12.4.2.jre11.jar",
+        "sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre11.jar",
+        "/Users/juliewu/Documents/SFU School Info/Fall 2023/CMPT354/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre11.jar",
+        "/Users/juliewu/Documents/SFU School Info/Fall 2023/CMPT354/Assignment7/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre11.jar"
+    ]
+}
