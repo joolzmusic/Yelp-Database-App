@@ -1,0 +1,2 @@
+
+The Yelp Database App is a Java-based application developed since November 2023, designed to emulate the functionalities of the popular review platform Yelp. It allows users to interact with features like user authentication, searching for businesses and users, establishing social connections, and leaving business reviews. The backend is built using Java and SQL, with JDBC used to securely connect to the SFU SQL database. This enables seamless data retrieval and modification within the application
